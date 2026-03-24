@@ -1,0 +1,6 @@
+# Helm
+helm/hello-world/charts/
+helm/hello-world/Chart.lock
+
+# Private notes
+NOTES.md
